@@ -1,2 +1,2 @@
-# testops-fdwo
-Financial Data Workflow Orchestrator – part of the TestOps automation suite.
+# TestOps – Financial Data Workflow Orchestrator (FDWO)
+
